@@ -1,0 +1,6 @@
+org 0000h
+mov a,#20h
+mov b,#10h
+mov r1,a
+mov r2,a
+end
